@@ -1,0 +1,7 @@
+PG = {
+    'user': '',
+    'password': '',
+    'host': 'db',
+    'port': '5432',
+    'database': ''
+}
