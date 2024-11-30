@@ -37,7 +37,7 @@ git clone https://github.com/LukoninDmitryPy/insurance_calculation_service.git
 
 ## Kafka logs:
     ```bash
-    docker exec -it kafka kafka-console-consumer --bootstrap-server localhost:9092 --topic your_topic_name --from-beginning
+    docker exec -it kafka kafka-console-consumer --bootstrap-server localhost:9092 --topic insurance_logs --from-beginning
     ```
 
 ## Example API usage
