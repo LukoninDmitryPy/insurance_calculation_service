@@ -14,7 +14,7 @@ This service calculates insurance costs based on cargo type and declared value u
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/LukoninDmitryPy/insurance_calculation_service.git
 ```
 3. Define variables
     Set params in alembic.ini(db::64), docker-compose.yaml(db::23-25), config.py
